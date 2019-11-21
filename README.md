@@ -1,2 +1,4 @@
+
 # MatrixChess
-Learn and Analysis Chess using Dynamic Sequential Game, like Chess
+
+https://github.com/niklasf/python-chess
